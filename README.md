@@ -29,8 +29,8 @@ Before running the script, make sure you have installed and configured:
 
 1. Clone this repository:     
 
-          git clone https://github.com/adityapatil343/t3rn-airdrop-bot 
-          cd t3rn-airdrop-bot
+          git clone https://github.com/adityapatil343/t3rn-bridge-bot
+          cd t3rn-bridge-bot
 2. Install python3:
 
           sudo apt update && sudo apt install -y python3
