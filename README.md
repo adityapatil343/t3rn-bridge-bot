@@ -52,36 +52,38 @@ example:
 
 for 1 account:
 
+
+     # keys_and_addresses.py
+     # replace you key and address 
      private_keys = [
-     '138d7224a76d23.....'
+    'your_private_key_here'  # Example: '9da...365' 
      ]
 
      my_addresses = [
-    '0x03837A9fC......'
+    'your_address_here'  # Example: '0x087....E85' 
      ]
 
      labels = [
-    'wallet1'
+    'wallet1' 
      ]
-
 
 
 for multi accounts:
 
-        private_keys = [
-    "0xYourPrivateKey1",
-    "0xYourPrivateKey2"
-        ]
+    private_keys = [
+     '0xYourPrivateKey1',
+     '0xYourPrivateKey2'
+    ]
 
-        my_addresses = [
-    "0xYourAddress1",
-    "0xYourAddress2"
-        ]
+    my_addresses = [
+     '0xYourAddress1',
+     '0xYourAddress2'
+    ]
 
-        labels = [
-    "Account 1",
-    "Account 2"
-        ]
+    labels = [
+     'Account 1',
+     'Account 2'
+    ]
 
 ### exit using command:  control + x and then enter
 
